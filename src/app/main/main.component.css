@@ -1,0 +1,329 @@
+/* You can add global styles to this file, and also import other style files */
+.left-align
+{
+    float:left;
+}
+.pot
+{
+    margin-left: 50%;
+    font-size: 30px;
+    float: right;
+    padding: 10px 60px;
+}
+.no-pad
+{
+    padding: 0px;
+}
+.right-align
+{
+    float:right;
+}
+.qq
+{
+    background-color:#2e373e;
+}
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap/dist/css/bootstrap.min.css';
+.pad
+{
+    padding-left: 5px !important;
+    padding-right: 0px !important;
+}
+.aa
+{
+    width: 4%;
+}
+.bb
+{
+    width: 35%;
+    padding-left: 20px;
+}
+.cc
+{
+    width: 10%;
+}
+.dd
+{
+    width: 8%;
+}
+.ee
+{
+    width: 11%;
+}
+.ff
+{
+    width: 22%;
+}
+.gg
+{
+    width: 10%;
+}
+.fnt 
+{
+    font-size: 18px;
+}
+.pq
+{
+text-align: center;
+}
+
+.tt
+{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.tt1
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.w
+{
+    color: white;
+}
+.w:hover
+{
+    color:#53ded6;
+    background-color:#2a3137;
+}
+.lq
+{
+    background-color: #444e57;
+}
+.hh
+{
+    padding-left: 15px;
+}
+.wh 
+{
+    color:white;
+   
+    
+}
+.kl
+{
+    border-right: 1px solid white;
+}
+
+.bw
+{
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
+    background-color: transparent;
+}
+.ii 
+{
+    padding-right: 20px;
+}
+.jj
+{
+    width: 176px;
+}
+.kk
+{
+    width: 120px;
+}
+.ll 
+{
+    width: 136px;
+}
+.xx
+{
+    padding-left: 11px;
+}
+.yy
+{
+    padding-right: 7px;
+}
+ 
+
+  .bn
+  {
+    content: '\00bb';
+    position: absolute;
+  }
+  .th 
+  {
+      text-align: center !important;
+      font-size: 16px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      display: block;
+      box-sizing: border-box;
+      min-height: 50px;
+  }
+ .td 
+  {
+      text-align: center;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      display: block;
+      box-sizing: border-box;
+      font-size: 13px;
+      min-height: 50px;
+  }
+  .td1
+  {
+      text-align: center;
+      display: block;
+      box-sizing: border-box;
+      font-size: 13px;
+  }
+  .mk
+  {
+      border-right: 1px solid white;
+  }
+  .mn
+  {
+      background-color:#5d7e85;
+  }
+  .bbot
+  {
+      border-bottom: 2px solid #d1e0e4;
+      
+  }
+ 
+  .ccol
+  {
+      background-color: #c7dade;
+  }
+  .ccol1
+  {
+      background-color: #ffffff;
+  }
+  .tcol
+  {
+      color: #98ccdb;
+  }
+  .bigil
+  {
+      background-color: #fe9c15;
+  }
+  .bigil1
+  {
+      background-color: #6f9298;
+  }
+  .bi
+  {
+      background-color: #fedaa3;
+  }
+  .bi11
+  {
+      background-color: #d0d8da;
+  }
+  
+  .bbot2
+  {
+      border-right: 1px solid white;
+  }
+  .bbot3
+  {
+    border-bottom: 2px solid #fedaa3;
+}
+.bbot33
+{
+    border-bottom: 2px solid #d0d8da;
+}
+
+.bbot4
+{
+    border-bottom: 2px solid #ffebcc;
+}
+.bbot44
+{
+    border-bottom: 2px solid #eaeaea;
+}
+.kb
+{
+    background-color:  #ffebcc;
+    color: #ffebcc;
+    
+}
+.kb111
+{
+    background-color: #eaeaea;
+}
+.vv11
+{
+    background-color: #eaeaea;
+    color: black !important;
+    
+}
+
+.kb1
+{
+    background-color:  #ffebcc;
+    
+    
+}
+.vv
+{
+    background-color:  #ffebcc;
+    color: black !important;
+   
+
+}
+.btt1
+{
+    background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 1px solid;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    
+ 
+}
+.btt
+{
+border:hidden;
+font-size: 11px;
+margin: 0px !important;
+padding: 0px !important;
+background-color: white;
+}
+.rr
+{
+    color:  #ffebcc;
+}
+.jd
+{
+    background-color: #faecd7;
+}
+.bttt
+{
+border:hidden;
+background-color: #ddcdb3;
+padding-bottom: 8px;
+padding-top: 8px;
+padding-left: 25px;
+padding-right: 25px;
+width: 80%;
+
+}
+.ss
+{
+    min-height: 1205px;
+}
+.wi1
+{
+    width: 16%;
+    
+}
+.wi2
+{
+    width: 12%;
+}
+.vb
+{
+    border-bottom: none !important;
+}
+.bbot6
+{
+    border-bottom: 2px solid #e7e3dd !important;
+}
+.w3
+{
+    display: flex;
+}
